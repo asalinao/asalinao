@@ -11,7 +11,7 @@ Data Engineer / Data Analyst passionate about building scalable data platforms, 
 
 ## Education
 
-B.Sc. in Information Systems and Technologies, specializing in Data Analysis and Artificial Intelligence
+B.Sc. in Information Systems and Technologies (09.03.02), specializing in Data Analysis and Artificial Intelligence
 MIREA — Russian Technological University, 2026
 
 ## Tech Stack
