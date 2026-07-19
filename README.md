@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Artem
 
-<!--
-**asalinao/asalinao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer / Data Analyst passionate about building scalable data platforms, ETL pipelines, and data warehouses.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Previously worked at VTB and Sber.
+- 🌱 Currently working at Wildberries.
+- 🛠 Building data pipelines, DWH, and analytical data marts.
+- 📊 Interested in Big Data, distributed systems, and data engineering.
+
+## Education
+
+B.Sc. in Information Systems and Technologies, specializing in Data Analysis and Artificial Intelligence
+MIREA — Russian Technological University, 2026
+
+## Tech Stack
+
+**Languages:** Python, SQL, Bash
+
+**Data:** PostgreSQL, Greenplum, Hadoop, Spark, Kafka, Airflow
+
+**BI:** Superset, Tableau, DataLens
+
+**Tools:** Docker, Git, Linux
