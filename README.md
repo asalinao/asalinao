@@ -16,10 +16,10 @@ MIREA — Russian Technological University, 2026
 
 ## Tech Stack
 
-**Languages:** Python, SQL, Bash
+**Languages:** Python, SQL, JavaScript, C#
 
-**Data:** PostgreSQL, Greenplum, Hadoop, Spark, Kafka, Airflow
+**Data:**  Clickhouse, Greenplum, Hadoop, PostgreSQL, Spark, Kafka, Airflow
 
-**BI:** Superset, Tableau, DataLens
+**BI:** Superset, Redash, Tableau, DataLens
 
-**Tools:** Docker, Git, Linux
+**Tools:** Docker, Git, Linux, Bash
