@@ -16,7 +16,7 @@ MIREA — Russian Technological University, 2026
 
 ## Tech Stack
 
-**Languages:** Python, SQL, JavaScript
+**Languages:** Python, SQL, JavaScript, Java
 
 **Data:**  Clickhouse, Greenplum, Hadoop, PostgreSQL, Spark, Kafka, Airflow
 
