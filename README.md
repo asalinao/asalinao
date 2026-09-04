@@ -11,6 +11,9 @@ Data Engineer / Data Analyst passionate about building scalable data platforms, 
 
 ## Education
 
+M.Sc. student, Faculty of Computer Science
+HSE University
+
 B.Sc. in Information Systems and Technologies (09.03.02), specializing in Data Analysis and Artificial Intelligence
 MIREA — Russian Technological University, 2026
 
